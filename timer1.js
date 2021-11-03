@@ -12,7 +12,7 @@ const alarm = (arr) => {
     }
   }
 
-}
+};
 
 const arg = process.argv.slice(2);
 alarm(arg);
